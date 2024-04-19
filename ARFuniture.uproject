@@ -21,6 +21,14 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "Omniverse",
+			"Enabled": false
+		},
+		{
+			"Name": "Paper2D",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
